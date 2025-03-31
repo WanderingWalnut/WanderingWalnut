@@ -1,14 +1,16 @@
 name: Generate Datas
 
+# Give the GITHUB_TOKEN write permissions for contents
+permissions:
+  contents: write
+
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -20,7 +22,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: WanderingWalnut  # Ensure this is your GitHub username
+          github_user_name: WanderingWalnut
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
