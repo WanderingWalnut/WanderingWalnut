@@ -33,7 +33,8 @@ I'm a passionate developer focused on creating elegant solutions and exploring n
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WanderingWalnut/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  [<img src="https://raw.githubusercontent.com/WanderingWalnut/output/github-contribution-grid-snake.svg" alt="Snake animation"/>](https://raw.githubusercontent.com/WanderingWalnut/WanderingWalnut/output/github-contribution-grid-snake.svg
+)
 </p>
 
 ## 👨‍💻 About Me
