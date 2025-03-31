@@ -50,8 +50,8 @@ interests:
   - Web Development
   - UI/UX
   - Open Source
-  - Coffee Aficionado
-fun_fact: "I love exploring new coffee shops and hiking on weekends."
+  - Food Connoisseur
+fun_fact: "I like food"
 ```
 
 - 🔝 I’m currently working on a web app for NueMe Sports
