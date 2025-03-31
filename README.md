@@ -38,7 +38,7 @@ I'm a passionate developer focused on creating elegant solutions and exploring n
 
 ## 👨‍💻 About Me
 
-```yaml
+
 name: WanderingWalnut (Naveed Khan)
 role: Developer | Open-Source Enthusiast | Tech Explorer
 location: Calgary, Alberta, Canada
@@ -48,15 +48,15 @@ interests:
   - Open Source
   - Coffee Aficionado
 fun_fact: "I love exploring new coffee shops and hiking on weekends."
-```
 
-- 🔝 I’m currently working on **Your Project Name**.
-- 🌱 I’m currently learning **[Technology/Framework]**.
-- 👯️ I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m looking for help with **[Problem/Topic]**.
-- 💬 Ask me about anything related to **software development, web technologies, or open source**.
-- 📩 How to reach me: **your.email@example.com**.
-- 😍 Pronouns: **[Your Pronouns]**.
+
+- 🔝 I’m currently working on a web app for NueMe Sports
+- 🌱 I’m currently learning React/TS
+- 👯️ I’m looking to collaborate on any cool project you may be working
+- 🤔 I’m looking for help with solving social isolation in a ever connected world
+- 💬 Ask me about anything related to software development, web technologies, or open source!
+- 📩 How to reach me: naveed.khan1@ucalgary.ca
+
 
 ## 🌐 Connect with Me
 
