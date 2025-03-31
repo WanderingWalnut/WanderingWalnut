@@ -33,7 +33,7 @@ I'm a passionate developer focused on creating elegant solutions and exploring n
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/WanderingWalnut/WanderingWalnut/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/WanderingWalnut/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -55,7 +55,7 @@ fun_fact: "I love exploring new coffee shops and hiking on weekends."
 - 👯️ I’m looking to collaborate on any cool project you may be working
 - 🤔 I’m looking for help with solving social isolation in a ever connected world
 - 💬 Ask me about anything related to software development, web technologies, or open source!
-- 📩 How to reach me: naveed.khan1@ucalgary.ca
+- 📫 How to reach me: [naveed.khan1@ucalgary.ca](naveed.khan1@ucalgary.ca)
 
 
 ## 🌐 Connect with Me
