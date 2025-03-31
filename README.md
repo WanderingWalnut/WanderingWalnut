@@ -77,5 +77,6 @@ fun_fact: "I love exploring new coffee shops and hiking on weekends."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Keep%20Coding!&animation=fadeIn&type=smooth&color=gradient&height=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=header&text=Keep%20Coding!&fontSize=20&animation=fadeIn" alt="Keep Coding"/>
 </p>
+
