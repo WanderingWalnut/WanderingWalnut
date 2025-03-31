@@ -42,7 +42,7 @@ I'm a passionate developer focused on creating elegant solutions and exploring n
 
 ## 👨‍💻 About Me
 
-
+```
 name: WanderingWalnut (Naveed Khan)
 role: Developer | Open-Source Enthusiast | Tech Explorer
 location: Calgary, Alberta, Canada
@@ -52,7 +52,7 @@ interests:
   - Open Source
   - Coffee Aficionado
 fun_fact: "I love exploring new coffee shops and hiking on weekends."
-
+```
 
 - 🔝 I’m currently working on a web app for NueMe Sports
 - 🌱 I’m currently learning React/TS
