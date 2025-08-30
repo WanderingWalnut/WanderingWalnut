@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# Hi there, I'm WanderingWalnut 👋
+# Hi there, I'm Naveed 👋
 
 I'm a passionate developer focused on creating elegant solutions and exploring new technologies. Welcome to my GitHub profile where I share my work, learnings, and interests!
 
